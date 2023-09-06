@@ -16,9 +16,7 @@
 
 - 💞️ I’m looking to collaborate on full stack websites that solve real world pain. An example would be my freelancer dahsboard webapp (in progress) that is displayed in my projects.
 - 📫 How to reach me
-    - Email
-      - cheree.lanece@gmail.com
-      - cheree@lanzel.io
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

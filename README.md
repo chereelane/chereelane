@@ -15,7 +15,7 @@
   - Sanity
 - DB
   - Mongodb
-  - Firebase
+  - PostgreSQL
  
 - Hosting
   - Vercel

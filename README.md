@@ -4,17 +4,24 @@
 - Frontend
   - Next.js
   - React.js
+  - Typescript
+    
 - Backend
   - Node.js
   - Express.js
+  - 
 - CMS
   - Contentful
   - Sanity
 - DB
   - Mongodb
   - Firebase
+ 
+- Hosting
+  - Vercel
+  - Netlify
 
-- 💞️ I’m looking to collaborate on full stack websites that solve real world pain. An example would be my freelancer dahsboard webapp (in progress) that is displayed in my projects.
+- 💞️ I’m looking to collaborate on full stack websites that solve real world pain.
 - 📫 How to reach me
 
 <!---
